@@ -11,7 +11,7 @@ import {
   TouchableHighlight,
 } from 'react-native';
 
-import youtubeSearch from '../youtube-api.js';
+import youtubeSearch from '../youtube-api';
 
 class VideoList extends Component {
   constructor(props) {
@@ -27,7 +27,7 @@ class VideoList extends Component {
 
   // ---------- componentDidMount here! -----------//
   componentDidMount() {
-    this.fetchData
+    this.fetchData();
   }
 
   // ------------ put fetchData here! -------------//
