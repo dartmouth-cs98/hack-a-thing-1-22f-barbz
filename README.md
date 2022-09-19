@@ -4,9 +4,6 @@
 ## What you built? 
 - We built an AR application mirroring the IKEA Place application by using Unity. The goal of this application was to provide users with various furniture options to place digitally in the space provided. Although this application did not run as expected for us, we were introduced to Unity and C#, along with its various functionalities. Given that this app did not run, we decided to pivot to an React-Native application using Expo and the Youtube API. Although both of us have built web-apps using React, neither of us had worked with React-Native and Expo, so we decided to give it a try. We followed multi-step tutorials for both of these applications
 
-Include some screenshots.
-[How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
-
 ### IKEA AR Unity App
 <img width="800" alt="Phone Simulator" src="https://user-images.githubusercontent.com/72226780/191085119-39df8157-f595-4460-8dd6-364ed6ea7d49.png">
 <img width="800" alt="Unity" src="https://user-images.githubusercontent.com/72226780/191085207-110c4d8d-c104-412c-8aa1-303329a605b9.png">
